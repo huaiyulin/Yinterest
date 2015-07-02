@@ -140,3 +140,6 @@ back to _form.html.haml
 			@pin = Pin.find(params[:id])
 		end
 
+
+============
+coffee 檔的使用方式要懂
